@@ -11,9 +11,9 @@ Input screen height: 30
 7 - exit 
 * zeros are not shown 
 2 5 5 30 12 1
-3 10 10 30 15 20 20
-2       
+3 10 10 30 15 20 20  
 4 13 12 3
+  
 6
                                         
                                         
